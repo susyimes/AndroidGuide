@@ -1,7 +1,7 @@
 ### Recomend arch
 https://github.com/googlesamples/android-architecture-components
 
-### Naming rules
+### Coding Standards
 #### JAVA
 http://standards.mediarain.com/android/java
 #### KOTLIN
