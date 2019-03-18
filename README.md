@@ -1,4 +1,4 @@
-### Recomend arch
+### Recomend Arch
 https://github.com/googlesamples/android-architecture-components
 
 ### Coding Standards
