@@ -10,8 +10,8 @@ http://standards.mediarain.com/android/kotlin
 <a href="https://jeroenmols.com/blog/2016/03/07/resourcenaming/">
 <img src="https://jeroenmols.com/img/blog/resourcenaming/resourcenaming_cheatsheet.png" width="65%">
 </a>
-#### Colors
 
+#### Colors
 Examples.. 
 ```xml
 <color name="white">#FFFFFF</color>
