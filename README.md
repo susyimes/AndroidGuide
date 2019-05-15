@@ -1,5 +1,7 @@
 ### Recomend Arch
 https://github.com/googlesamples/android-architecture-components
+#### SAMPLES
+https://github.com/googlesamples/android-architecture
 
 ### Coding Standards
 #### JAVA
